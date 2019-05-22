@@ -1,5 +1,10 @@
-.logo {
-background:url(img/Logo.svg);
-padding-left: 144px !important;
-height: 35px;
+.body {
+padding-left: 90px;
+padding-top: 50px;
+padding-bottom: 50px; 
+}
+.footer {
+color: gray;
+font-size: 15px;
+padding-left: 90px;
 }
