@@ -1,0 +1,19 @@
+{
+  "name": "frontend-cult",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cssmin": "*",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "*",
+    "gulp-rigger": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "rimraf": "*"
+  }
+}

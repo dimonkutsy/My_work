@@ -1,0 +1,26 @@
+$default-color-white: #FFFFFF;
+$default-color-black: #000000;
+
+$primary-color-first: initial;
+$primary-color-second: initial;
+
+$font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+$global-font-family: $font-family;
+$global-line-height: 1.5;
+$global-link-color: $default-color-white;
+$base-link-hover-color: $primary-color-second;
+$base-body-background:$default-color-black;
+$base-body-color: $default-color-white;
+
+$base-link-hover-text-decoration: none;
+
+$font-size: 14px;
+
+$font-weight-regular: 400;
+$font-weight-medium: 600;
+//$font-weight-bold: 700;
+
+$base-h1-font-size: 32px;
+$base-h1-font-size-m: 32px;
+$base-h2-font-size: 24px;
+$base-h2-font-size-m: 24px;

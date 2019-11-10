@@ -1,0 +1,43 @@
+$base-body-font-family: $font-family;
+$base-body-font-weight: $font-weight-regular;
+$base-body-font-size: $font-size;
+$global-font-family: $font-family;
+
+$section-padding-vertical: 40px;
+$section-padding-vertical-m: 64px;
+
+$section-small-padding-vertical: 24px;
+
+$section-large-padding-vertical: 48px;
+$section-large-padding-vertical-m: 80px;
+
+$container-large-max-width: 1200px;
+$container-padding-horizontal: 16px;
+$container-padding-horizontal-m: 48px;
+
+$grid-gutter-horizontal: 16px;
+$grid-gutter-horizontal-l: 24px;
+$grid-gutter-vertical: 16px;
+$grid-gutter-vertical-l: 24px;
+
+$margin-small-margin: 8px;
+$margin-margin: 16px;
+$margin-medium-margin: 24px;
+$margin-large-margin: 32px;
+$margin-large-margin-l: 32px;
+$margin-xlarge-margin: 48px;
+$margin-xlarge-margin-l: 48px;
+
+$base-margin-vertical: 24px;
+
+@mixin hook-base-h1 {
+
+}
+
+@mixin hook-base-h2 {
+
+}
+
+@mixin hook-base-h3 {
+
+}
